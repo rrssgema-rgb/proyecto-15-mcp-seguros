@@ -1,0 +1,15 @@
+﻿# Material proporcionado por el profesor
+material_profesor/
+
+# Entorno virtual
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Variables de entorno y secretos
+.env
+
+# Configuración local de Claude Code
+.claude/
